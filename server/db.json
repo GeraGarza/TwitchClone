@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "abc",
+      "description": "def",
+      "userId": "108028733583408176346",
+      "id": 1
+    },
+    {
+      "title": "123",
+      "description": "456",
+      "userId": "108028733583408176346",
+      "id": 2
+    },
+    {
+      "title": "ggg",
+      "description": "GGG",
+      "userId": "108028733583408176346",
+      "id": 3
+    }
+  ]
+}
